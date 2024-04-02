@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.logo {
+    filter: invert(100%);
+}
+h1{
+    color: hsl(192, 100%, 9%);
+}
+p{
+    color: hsl(208, 11%, 55%);
+}
